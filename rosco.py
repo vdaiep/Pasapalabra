@@ -369,10 +369,10 @@ def main():
         if winner != -1:
             if winner == 0:
                 DISPLAY.blit(font4.render("VICTORIA", True, white), (240, 350))
-                DISPLAY.blit(font5.render("Equipo Naranja", True, white), (250, 500))
+                DISPLAY.blit(font5.render("Equipo Azul", True, white), (300, 500))
             elif winner == 1:
                 DISPLAY.blit(font4.render("VICTORIA", True, white), (240, 350))
-                DISPLAY.blit(font5.render("Equipo Azul", True, white), (300, 500))
+                DISPLAY.blit(font5.render("Equipo Naranja", True, white), (250, 500))
             else:
                 DISPLAY.blit(font4.render("EMPATE", True, white), (255, 400))
 
