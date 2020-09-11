@@ -24,6 +24,8 @@ El moderador ahora puede compartir pantalla y desarrollar el juego. Los controle
 
 El moderador debe ir leyendo las definiciones en orden, marcando las que se respondieron correctamente (con las teclas 1-8) y saltándoselas en la siguiente vuelta.
 
+![Alt text](/img/cruzadas.png?raw=true "Palabras Cruzadas")
+
 
 EL AHORCADO
 -----------
@@ -43,6 +45,8 @@ El moderador ahora puede compartir pantalla y desarrollar el juego. Los controle
 * ESC:      Cierra el programa.
 
 El moderador debe ir marcando las letras que los jugadores indiquen, y en caso de que se intente adivinar la palabra completa, usar las teclas 1 y 2 según corresponda. Una vez que se acaben las 9 palabras o el tiempo de cada equipo, se pasa al equipo siguiente o a la pantalla de puntajes finales.
+
+![Alt text](/img/ahorcado.png?raw=true "El Ahorcado")
 
 
 EL ROSCO
@@ -64,6 +68,7 @@ Se solicitarán los tiempos en segundos correspondientes a cada equipo. El moder
 
 El moderador debe ir leyendo las definiciones de cada equipo, y marcando las letras según las respuestas de los jugadores. Para más información respecto a las reglas del juego, consultar las instrucciones de este. Una vez que se alcance la condición de victoria para alguno de los equipos, se indicará en pantalla el ganador, pero se podrá seguir jugando hasta que el tiempo de cada equipo se acabe.
 
+![Alt text](/img/rosco.png?raw=true "El Rosco")
 
 
 
